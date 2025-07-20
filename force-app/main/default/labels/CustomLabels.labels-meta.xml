@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Case_Permission_Set_Api_Name</fullName>
+        <categories>CQ Configuration Developer - Level 1</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CQ Configuration Developer - Level 1 Case Permission Set Name</shortDescription>
+        <value>Case_Admin</value>
+    </labels>
+</CustomLabels>
